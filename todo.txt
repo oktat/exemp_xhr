@@ -1,0 +1,4 @@
+TODO: A hozzáadáshoz kell űrlap
+TODO: A módosítás megvalósítása
+TODO: Törlés megvalósítása
+TODO: Szűrés megvalósítása
